@@ -1,0 +1,11 @@
+packages:
+  - '.'
+
+onlyBuiltDependencies:
+  - '@lng2004/node-datachannel'
+  - '@seydx/node-av-win32-x64-mingw'
+  - '@seydx/node-av-win32-x64-msvc'
+  - esbuild
+  - node-av
+  - sharp
+  - zeromq

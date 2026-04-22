@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "Release version 0.1.0",
+  "pub_date": "2026-04-22T21:19:04.395Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTVlrS3ZLUHZ5cG5lWi9jbEFpM1FlekVTaWZBZFZ4QWx4OVNBSjBCRUhSVG1uN3NnbXRkNUhZSkxjN1RBNjZ2Q1JiK3h4UERWN2c2RmhyM3FyR04wSVBhVVFOVlVTZHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2ODkyNzQ0CWZpbGU6bmFpcHR2cGxheWVyXzAuMS4wX3g2NC1zZXR1cC5leGUKMFhQbjYxdGpyLzJoSmlUMllnbUk2UytzbTVQdG9Qa1lxVEY2cjQ5NW9FNFlVaDZEejRtQnZzYm9EdnFNOTd1SkRPUUlMZFpramNyYkVSN2RINllpQUE9PQo=",
+      "url": "https://github.com/MRsabs/naiptvplayer/releases/download/v0.1.0/naiptvplayer_0.1.0_x64-setup.exe"
+    }
+  }
+}
