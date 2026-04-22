@@ -272,7 +272,7 @@ export default function AccountsView() {
             <path d="M10 8.65L15.5 12 10 15.35z" />
           </svg>
           <span className="text-base font-bold text-white tracking-tight">
-            StreamBox
+            NAiptvplayer
           </span>
         </div>
         <Button
